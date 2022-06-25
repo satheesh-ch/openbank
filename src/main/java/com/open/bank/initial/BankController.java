@@ -10,6 +10,7 @@ public class BankController {
 
     public ResponseEntity generateCustomerBase()
     {
+        //Just added the commnet from another user with another branch satheesh-second/branch2
         return null;
     }
 }
