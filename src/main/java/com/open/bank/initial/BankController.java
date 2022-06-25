@@ -10,6 +10,7 @@ public class BankController {
 
     public ResponseEntity generateCustomerBase()
     {
+        System.out.println("Hey Satheesh ,How are you doing today ???");
         return null;
     }
 }
