@@ -8,6 +8,7 @@ public class OpenbankApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OpenbankApplication.class, args);
+		//This is a commented for testing
 	}
 
 }
